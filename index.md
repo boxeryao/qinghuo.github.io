@@ -1,3 +1,7 @@
+{:refdef: style-"text-align: center;"}
+![Image](646f361e6ef99555c53261d7719c5d57.jpg)
+{:refdef}
+
 # 轻火游戏
 
 ##案例欣赏
